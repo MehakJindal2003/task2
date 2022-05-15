@@ -84,4 +84,5 @@ int main()
         cout << "Element is not present in the given array";
     }
  
-    return 0;}
+    return 0;
+}
