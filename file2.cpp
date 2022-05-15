@@ -6,7 +6,7 @@ int main()
   int n;
   int pos;
   int i;
-  cout<<"Current array is :"
+  cout<<"Current array is :";
     for(i=0;i<=5;i++)
     {
       cout<<arr[i];
